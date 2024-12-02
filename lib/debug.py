@@ -1,0 +1,8 @@
+# GLORY BE TO GOD,
+# PYTHON PROGRAMMING - PYTHON - PROPERTY FUNCTION DECORATOR
+# BY ISRAEL MAFABI EMMANUEL
+
+from dog import Dog
+import ipdb
+
+ipdb.set_trace()
