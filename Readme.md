@@ -1,8 +1,8 @@
-# Python Instantiation - Israel Mafabi Emmanuel
+# Python Property function Decorators - Israel Mafabi Emmanuel
 
-This is a simple Python application that showcases the usage of Classes in Python and How to instantiate.
+This is a simple Python application that showcases the usage of Python Property Function Decorators.
 
-More so how to invoke instance methods... 😉
+... 😉
 
 ## Requirements
 
